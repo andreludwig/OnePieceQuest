@@ -1,0 +1,18 @@
+Pwd mostra qual pasta tá
+Ls lista as pastas
+Ls -a lista as pastas ocultas
+Cd entra na pasta
+Cd .. volta a pasta
+Mkdir criar pasta
+Rm -R apaga tudo dentro da pasta
+
+Git help pra checar comandos
+Touch X cria o arquivo com nome X dentro da branch
+Git add . tudo que foi modificado
+Git commit -m "MENSAGEM" firma a alteração
+Git push joga os dados
+Git pull atualiza o projeto, baixa
+Git status vê o status do projeto, se tem algo pra commitar...
+Git checkout muda a branch
+Git merge joga a branch dentro de outra
+Git branch cria branch
